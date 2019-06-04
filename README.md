@@ -1,4 +1,5 @@
 # pwasupported
+[![Netlify Status](https://api.netlify.com/api/v1/badges/012b816d-3ce3-4119-82c8-9716af807db5/deploy-status)](https://app.netlify.com/sites/nostalgic-agnesi-c58fb9/deploys)
 
 ## Project setup
 ```
